@@ -22,3 +22,11 @@ Step 3: Trying Some Commands
 ![Image](Step3.PNG)
 
 1. After connected to the OpenSSH server, you can input commands such as “cd” and “ls -a.”
+
+Step 4: Moving Files with scp
+
+![Image](Step4.PNG)
+
+1. Exit OpenSSH server, then enter the scp command to upload the file you want to upload. Make sure that the file is in the same repository.
+
+
