@@ -29,4 +29,20 @@ Step 4: Moving Files with scp
 
 1. Exit OpenSSH server, then enter the scp command to upload the file you want to upload. Make sure that the file is in the same repository.
 
+Step 5: Setting an SSH Key
 
+![Image](Step5.PNG)
+
+1. Enter the command ssh-keygen. Then set a location where you can store the key. The generate the key.
+2. After that, enter the following commands as an administrator and then ssh-add the key.
+
+Step 6: Optimizing Remote Running
+
+![Image](Step6_1.PNG)
+
+1. Enter a series of command to copy the file to the server and run the file on the server.
+Then you will see the file is copied to the server.
+
+![Image](Step6_2.PNG)
+
+2. After than you can see the file can successfully run on the server.
