@@ -6,6 +6,7 @@ Step 1: Installing VScode
 
 1. search “VScode” on google.
 2. Click “Download” under the result “Visual Studio Code - Code Editing. Redefined.”
+[Click this link to download VsCode](https://code.visualstudio.com/download)
 3. Download VScode.
 
 Step 2: Remotely Connecting
@@ -40,7 +41,7 @@ Step 6: Optimizing Remote Running
 
 ![Image](Step6_1.PNG)
 
-1. Enter a series of command to copy the file to the server and run the file on the server.
+1. Enter a series of command to copy the file to the server and run the file on the server. In this way, we can save time when trying to run remotely.
 Then you will see the file is copied to the server.
 
 ![Image](Step6_2.PNG)
