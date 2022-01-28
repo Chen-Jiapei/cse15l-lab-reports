@@ -1,1 +1,1 @@
-[Link][(Link.com)]
+[Link]/(Link.com)

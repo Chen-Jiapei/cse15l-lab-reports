@@ -38,5 +38,7 @@ Code Difference From Github
 
 The Output of Running the File at the Command Line for the Third Version Where It is Failing
 
-![Image](Lab Report 2 Symptom 2.PNG)
+![Image](Lab Report 2 Symptom 3.PNG)
+
+> The input is a line of link in which there is an "/" character between the close bracket and the open parenthesis. The Symptom is the programme extracts the link inside the parenthesises because the format of the line is not correct. There shouldn't be any characters between the close bracket and the open parenthesis. The bug in the getLinks method in the MarkdownParse class is the method looks for the open parenthesis after the close bracket while it doesn't confirm that there is no character between them. Since the input has a charatcer "/" between the close bracker and the open parenthesis, and the method doesn't check it, the programme just extracts the link between the parenthesis even though the format of this line is not correct.
 
