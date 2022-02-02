@@ -42,7 +42,7 @@ Step 6: Optimizing Remote Running
 ![Image](Step6_1.PNG)
 
 1. Enter a series of command to copy the file to the server and run the file on the server. In this way, we can save time when trying to run remotely.
-Then you will see the file is copied to the server.
+Then you will see the file is copied to the server. Entering this command takes 23 keystrokes.
 
 ![Image](Step6_2.PNG)
 
