@@ -20,7 +20,7 @@ My implementation didn't correctly recognize the exclamation mark before the lin
 
 Result of Lab 9 Implementation:
 
-![Image](Lab_9_Result_3.PNG)
+![Image](Lab_9_Result_3.jpg)
 
 Result of My Implementation:
 
