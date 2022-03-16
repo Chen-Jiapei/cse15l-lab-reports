@@ -14,7 +14,7 @@ Result of My Implementation:
 
 The implementation in Lab 9 is correct, and my implementation is wrong.
 
-![Image](Code_Problem_1)
+![Image](Code_Problem_1.PNG)
 
 My implementation didn't correctly recognize the exclamation mark before the link. What needs to be done is fixing the if statement for returning the link.
 
@@ -37,7 +37,7 @@ Result of My Implementation:
 
 The implementation in Lab 9 is correct, and my implementation is wrong.
 
-![Image](Code_Problem_2)
+![Image](Code_Problem_2.PNG)
 
 My implementation can't correctly recognize the close parenthesis in the link, as a result, it won't print out the complete link.
 
